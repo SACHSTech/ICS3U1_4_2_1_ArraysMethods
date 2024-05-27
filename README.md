@@ -57,7 +57,7 @@ We can also form arrays in a method and return them.
 ### Example
 Write a method firstLast that returns an array consisting of the first and last elements of the parameter fullArray.  Write a main program to test it.
 
-
+```
 public class Program3 extends ConsoleProgram{
     public void run() {
     
